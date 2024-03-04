@@ -1,5 +1,6 @@
-# Lab 15 Notes
-
+---
+title: Lab 15 Notes
+---
 
 ### 1. Zip File for Lab
 
