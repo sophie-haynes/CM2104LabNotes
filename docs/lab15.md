@@ -2,9 +2,7 @@
 title: Lab 15 Notes
 ---
 
-### 1. Zip File for Lab
-
-The lab zip folder includes a `node_modules` folder and `package-lock.json` file. These are not required for your lab attempt, as we will generate these automatically in the lab.
+### 1. Starting the Lab
 
 ❗️ Don't forget to run `npm init` in your lab folder in codio before working on the lab.
 
